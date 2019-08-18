@@ -24,7 +24,7 @@ An additional filter of topics ensures the results are only those that have been
 The search results can be toggled open or closed to view the responses and the distribution of each response:
 ![Toggling Results](img/searchPage/TogglingResults.gif)
 
-The expiration date for the partner's use of this service is encrypted in the API Token. If an API Token expires (or is invalid in any way), the search module is greyed out and the following message appears:
+The expiration date for the partner's use of this service is encrypted in the API Token. If an API Token expires (or is invalid in any way), the search module is greyed out and inaccessible and the following message appears:
 ![Invalid API Token](img/searchPage/invalidAPIToken.PNG)
 
 ## Partner Management
