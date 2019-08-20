@@ -1,5 +1,6 @@
 # Partner Search
 ### A dynamic and embeddable search module made for the Roper Center and their partner organizations. 
+** The code for this project is not open source, but I was permitted to share these images **
 
   The Roper Center for Public Opinion Research (https://ropercenter.cornell.edu/) is an organization hosted at Cornell University that archives and analyzes public opinion poll data. At Roper, partners are organizations which send the data from public opinion polls that they conduct or sponsor to the Roper Center. 
 
