@@ -1,5 +1,5 @@
 # Partner Search
-### A dynamic and embeddable search module made for the Roper Center and their partner organizations. 
+### A dynamic and embeddable search module made for the Roper Center and their partner organizations. <br/>
 
 *The code for this project is not open source, but I was permitted to share these images 
 
